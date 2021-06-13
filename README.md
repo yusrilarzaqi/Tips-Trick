@@ -1,2 +1,1 @@
-# Trics-Trick
-Indonesia Belajar
+# pythonic
